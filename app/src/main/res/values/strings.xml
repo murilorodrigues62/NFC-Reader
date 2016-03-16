@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC-Reader</string>
+    <string name="nfc_disable">O NFC do seu dispositivo não está habilitado</string>
+    <string name="unknown_tag_type">Tipo de tag desconhecido</string>
+</resources>
